@@ -3,6 +3,8 @@ package lessonJavaCore;
 public class Car {
     // modeli
     // color
+    // narxi
+    // avtomat yoki mexanika
     public void getColor(String color){
         System.out.println(color);
     }
